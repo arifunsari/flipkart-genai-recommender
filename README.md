@@ -1,4 +1,4 @@
-# Flipkart Chat Bot
+# Flipkart Product Recommendation System    
 
 ## Project Overview
 This project develops a RAG-based chatbot for personalized Flipkart product recommendations. It uses LangChain, Grok (LLM), and Astra DB for context-aware responses, with a Flask web app deployed via Docker on AWS EC2. The system improves e-commerce user experience by 30% through efficient recommendation delivery.
